@@ -1,7 +1,7 @@
 language: python
 puthon: 3.8
 script:
-  - cd Lab666
+  - cd PythonApplication1
   - pytest
   - cd ..
 
